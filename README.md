@@ -11,3 +11,10 @@ Pins connection:
 | ------ | ------ |
 | D4 | Resistor |
 | GND | LED cathode (small one) |
+
+## Related repos:
+* Web Server: https://github.com/amusement-x-labs/WebServerESP32LedControl
+* Oculus quest VR headset app: https://github.com/amusement-x-labs/OculusQuestLedESP32WiFi
+
+## Fullfit demonstration
+https://www.youtube.com/watch?v=9jvDrz8QC2s 
